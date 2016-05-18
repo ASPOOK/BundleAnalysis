@@ -263,3 +263,5 @@ getBoolean(String key, boolean defaultValue)的具体实现如下：
 #### 小结 ####
 
 到此，Bundle的源码分析基本就结束了，其实Bundle比较简单，只是一个数据容器，不像Activity等有复杂的生命周期。对于开发者来说，只需要了解Bundle的功能、使用场景并掌握常用的数据存取方法即可。
+
+在本人博客上也可以找到这篇文章：[Bundle源码分析](http://blog.csdn.net/ahence/article/details/51443722)
